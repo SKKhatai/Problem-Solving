@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1dfaf55-bf8a-4ee9-8471-2db1dcf5e4cc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ImportantInterviewProblem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/Algorithms/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/Algorithms/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/Algorithms/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/DSA/CommonElements_Arr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/DSA/Highest_Frequency_Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/DSA/K_largest_Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/DSA/Longest_Unique_SubStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/DSA/ReversingAnArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/DSA/RomanProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/implementation/BinaryTree_Creation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/implementation/Check2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/implementation/HashMap_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/implementation/HeapDSA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/implementation/StackImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/AverageArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/BracketBalancing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/CharacterCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/Count3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/InternShipExpenditureProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/LongestPalindromicSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/LongestUniqueSubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/LongestWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/MissingCharacterInAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/MissingNumberInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/ModifiedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/Problem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/RemoveSpecialCharFroaAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/Rotate90D2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/StringChangeLetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/StringRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/SumOfTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/SwapEvenPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/TOHRecursion.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.txt" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2khAWxXaWS0tBQJUKSrAE2FGY0Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AverageArray.executor": "Run",
+    "Application.BinarySearch.executor": "Run",
+    "Application.BinaryTree_Creation.executor": "Run",
+    "Application.BracketBalancing.executor": "Run",
+    "Application.BubbleSort.executor": "Run",
+    "Application.CharacterCount.executor": "Run",
+    "Application.Check2.executor": "Run",
+    "Application.Class2.executor": "Run",
+    "Application.CommonElements_Arr.executor": "Run",
+    "Application.Count3.executor": "Run",
+    "Application.HashMap_Practice.executor": "Run",
+    "Application.HeapDSA.executor": "Run",
+    "Application.Highest_Frequency_Character.executor": "Run",
+    "Application.InsertionSort.executor": "Run",
+    "Application.K_largest_Element.executor": "Run",
+    "Application.LongestPalindromeSubstring.executor": "Run",
+    "Application.LongestPalindromicSubstring.executor": "Run",
+    "Application.LongestUniqueSubString.executor": "Run",
+    "Application.LongestWord.executor": "Run",
+    "Application.Longest_Unique_SubStr.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MergeSort.executor": "Run",
+    "Application.MissingCharacterInAnArray.executor": "Run",
+    "Application.MissingNumberInArray.executor": "Run",
+    "Application.ModifiedArray.executor": "Run",
+    "Application.Problem.executor": "Run",
+    "Application.RemoveSpecialCharFroaAString.executor": "Run",
+    "Application.ReversingAnArrayList.executor": "Run",
+    "Application.RomanProblem.executor": "Run",
+    "Application.Rotate90D2DArray.executor": "Run",
+    "Application.SelectionSort.executor": "Run",
+    "Application.StackImplementation.executor": "Run",
+    "Application.StringChangeLetter.executor": "Run",
+    "Application.StringRotation.executor": "Run",
+    "Application.SumOfTwoNumbers.executor": "Run",
+    "Application.SwapEvenPosition.executor": "Run",
+    "Application.TOHRecursion.executor": "Run",
+    "Application.com.practice.Algorithms.MergeSort.executor": "Run",
+    "Application.privatemethod.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Udemy SpringBoot",
+    "onboarding.tips.debug.path": "D:/ThinkCorePractice/src/Main.java",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.LongestWord">
+    <configuration name="CharacterCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.problem.CharacterCount" />
+      <module name="ImportantInterviewProblem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.problem.LongestWord" />
+      <module name="ImportantInterviewProblem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RomanProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.DSA.RomanProblem" />
+      <module name="ImportantInterviewProblem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.DSA.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringChangeLetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.problem.StringChangeLetter" />
+      <module name="ImportantInterviewProblem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOfTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.problem.SumOfTwoNumbers" />
+      <module name="ImportantInterviewProblem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LongestWord" />
+        <item itemvalue="Application.StringChangeLetter" />
+        <item itemvalue="Application.SumOfTwoNumbers" />
+        <item itemvalue="Application.CharacterCount" />
+        <item itemvalue="Application.RomanProblem" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1dfaf55-bf8a-4ee9-8471-2db1dcf5e4cc" name="Changes" comment="" />
+      <created>1723725473384</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723725473384</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/problem/BinarySearch.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/problem/BinarySearch.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/problem/BinarySearch.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/problem/BinarySearch.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/problem/BinarySearch.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/problem/BinarySearch.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/problem/BinarySearch.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/problem/BinarySearch.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/problem/BinarySearch.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/problem/BinarySearch.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/problem/AverageArray.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/DSA/CommonElements_Arr.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/DSA/Longest_Unique_SubStr.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/DSA/Longest_Unique_SubStr.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/DSA/Longest_Unique_SubStr.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/DSA/Longest_Unique_SubStr.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/DSA/Longest_Unique_SubStr.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/DSA/Longest_Unique_SubStr.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/DSA/Longest_Unique_SubStr.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/DSA/Longest_Unique_SubStr.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/DSA/Longest_Unique_SubStr.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/DSA/Longest_Unique_SubStr.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/DSA/Longest_Unique_SubStr.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/DSA/Longest_Unique_SubStr.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/DSA/Longest_Unique_SubStr.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/DSA/Longest_Unique_SubStr.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/DSA/Longest_Unique_SubStr.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/DSA/Longest_Unique_SubStr.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/DSA/Longest_Unique_SubStr.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/DSA/Longest_Unique_SubStr.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/DSA/Longest_Unique_SubStr.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/practice/DSA/Longest_Unique_SubStr.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/practice/problem/Rotate90D2DArray.java</url>
+          <line>3</line>
+          <properties class="com.practice.problem.Rotate90D2DArray" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/practice/problem/ModifiedArray.java</url>
+          <line>5</line>
+          <properties class="com.practice.problem.ModifiedArray" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/practice/implementation/BinaryTree_Creation.java</url>
+          <line>81</line>
+          <properties class="com.practice.implementation.BinaryTree_Creation" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/practice/DSA/K_largest_Element.java</url>
+          <line>37</line>
+          <properties class="com.practice.DSA.K_largest_Element" method="insertElement">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/practice/DSA/Longest_Unique_SubStr.java</url>
+          <line>12</line>
+          <properties class="com.practice.DSA.Longest_Unique_SubStr" method="getLongestSubstr">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
