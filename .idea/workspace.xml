@@ -5,51 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1dfaf55-bf8a-4ee9-8471-2db1dcf5e4cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImportantInterviewProblem.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/Algorithms/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/Algorithms/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/Algorithms/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/DSA/CommonElements_Arr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/DSA/Highest_Frequency_Character.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/DSA/K_largest_Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/DSA/Longest_Unique_SubStr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/DSA/ReversingAnArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/DSA/RomanProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/implementation/BinaryTree_Creation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/implementation/Check2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/implementation/HashMap_Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/implementation/HeapDSA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/implementation/StackImplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/AverageArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/BracketBalancing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/CharacterCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/Count3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/InternShipExpenditureProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/LongestPalindromicSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/LongestUniqueSubString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/LongestWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/MissingCharacterInAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/MissingNumberInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/ModifiedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/Problem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/RemoveSpecialCharFroaAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/Rotate90D2DArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/StringChangeLetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/StringRotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/SumOfTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/SwapEvenPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/problem/TOHRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/Algorithms/CyclicSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +49,7 @@
     "Application.Class2.executor": "Run",
     "Application.CommonElements_Arr.executor": "Run",
     "Application.Count3.executor": "Run",
+    "Application.CyclicSort.executor": "Run",
     "Application.HashMap_Practice.executor": "Run",
     "Application.HeapDSA.executor": "Run",
     "Application.Highest_Frequency_Character.executor": "Run",
@@ -123,14 +81,14 @@
     "Application.privatemethod.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/Udemy SpringBoot",
     "onboarding.tips.debug.path": "D:/ThinkCorePractice/src/Main.java",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LongestWord">
+  <component name="RunManager" selected="Application.CyclicSort">
     <configuration name="CharacterCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.problem.CharacterCount" />
       <module name="ImportantInterviewProblem" />
@@ -144,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.problem.LongestWord" />
+    <configuration name="CyclicSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.Algorithms.CyclicSort" />
       <module name="ImportantInterviewProblem" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.problem.*" />
+          <option name="PATTERN" value="com.practice.Algorithms.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RomanProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.DSA.RomanProblem" />
+    <configuration name="LongestWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.problem.LongestWord" />
       <module name="ImportantInterviewProblem" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.practice.DSA.*" />
+          <option name="PATTERN" value="com.practice.problem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CyclicSort" />
         <item itemvalue="Application.LongestWord" />
         <item itemvalue="Application.StringChangeLetter" />
         <item itemvalue="Application.SumOfTwoNumbers" />
         <item itemvalue="Application.CharacterCount" />
-        <item itemvalue="Application.RomanProblem" />
       </list>
     </recent_temporary>
   </component>
