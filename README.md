@@ -1,51 +1,23 @@
-# Problem Solving Project
+# Problem Solving Repository
 
-## Overview
-This repository is dedicated to a collection of problem-solving strategies and implementations across various domains.
+This repository is dedicated to various algorithms and data structure implementations in Java.
 
-## Project Structure
-```plaintext
-Problem-Solving/
-├── algorithms/
-│   ├── sorting/
-│   │   ├── bubble_sort.py
-│   │   ├── quick_sort.py
-│   │   └── merge_sort.py
-│   ├── searching/
-│   │   ├── binary_search.py
-│   │   └── linear_search.py
-│   └── graph/
-│       ├── dijkstra.py
-│       └── breadth_first_search.py
-├── data_structures/
-│   ├── linked_list.py
-│   ├── binary_tree.py
-│   └── stack.py
-├── tests/
-│   ├── test_sorting.py
-│   ├── test_searching.py
-│   └── test_graph.py
-└── README.md
-```
+## Repository Structure
+- **Algorithms**: Contains various algorithm implementations.
+- **DSA**: Data Structure Algorithms.
+- **Implementation**: Detailed implementations of algorithms.
+- **Problem**: Problem-solving examples and challenges in Java.
 
-## Contents
-1. **algorithms/**: Contains various algorithms grouped by type.
-   - **sorting/**: Implementations of sorting algorithms.
-   - **searching/**: Implementations of searching algorithms.
-   - **graph/**: Algorithms related to graph theory.
+## Getting Started
 
-2. **data_structures/**: Includes different data structures implementations.
+To get started with the code:
 
-3. **tests/**: Unit tests for verifying algorithm functionalities.
-
-## How to Contribute
-- Fork the repository.
-- Create a new branch for your features or fixes.
-- Ensure your code is well-documented and tested.
-- Submit a pull request for review.
-
-## License
-This project is licensed under the MIT License.
-
-## Contact
-For any queries, feel free to reach out to [SKKhatai](https://github.com/SKKhatai).
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/SKKhatai/Problem-Solving.git
+   ```
+2. Navigate into the directory:
+   ```bash
+   cd Problem-Solving
+   ```
+3. Build the project and run the main Java files as needed to see algorithms in action!
