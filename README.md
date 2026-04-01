@@ -31,8 +31,6 @@ Additional files:
    javac path/to/YourClass.java
    java -cp src your.package.YourClass
    ```
-   Make sure to adjust the path and class name as needed.
-
 ## Contribution
 
 Contributions are welcome! Fork this repository and submit pull requests for improvements or new content.
