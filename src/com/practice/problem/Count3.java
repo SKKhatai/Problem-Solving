@@ -7,14 +7,14 @@ public class Count3 {
         Scanner sc = new Scanner(System.in);
         int n=sc.nextInt();
         int count=0;
-        for (int i = 0; i < n; i++) {
+        for (int i = 1; i <= n; i++) {
             boolean res= checkNumber3(i);
             if(res==true){
                 count++;
             }
 
         }
-        System.out.println(n-count);
+        System.out.println((n-count)+" numbers doesn't contain digit 3");
     }
     static boolean checkNumber3(int n){
         boolean flag=false;
