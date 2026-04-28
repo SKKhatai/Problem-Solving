@@ -1,6 +1,6 @@
 # Problem Solving Repository
 
-This repository provides a collection of Java implementations for classic algorithms, data structures, and diverse coding problems. It is structured to support learning, interview preparation, and hands-on problem solving.
+This repository provides a collection of Java implementations for classic algorithms, data structures, and diverse coding problems. It is structured to learn, interview preparation, and hands-on problem solving.
 
 ## Repository Structure
 
