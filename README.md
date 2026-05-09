@@ -11,10 +11,6 @@ All core source files are under `src/com/practice/`:
 - **implementation**: Reference implementations and exercises, demonstrating usage of core Java structures.
 - **problem**: Standalone coding challenges, interview questions, and practice problems.
 
-Additional files:
-- `src/Main.java`: Entry point or custom testing script for experimenting with code.
-- IDE/project config files: For environment setup and build tools (e.g., `.gitignore`, `.iml`, `.idea/`).
-
 ## Getting Started
 
 1. **Clone the repository**  
